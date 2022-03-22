@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning VHDL
+- 🌱 I’m currently learning VHDL and digital electronics
+- 💬 Ask me about SFML & C++
+- 🤔 I’m looking for help with math for 3D computer graphics
 - ⚡ Fun fact: I want to become an embedded software developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaigm&theme=tokyonight)
