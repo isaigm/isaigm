@@ -24,4 +24,4 @@ I am currently preparing for a Master's degree, with a deep dive into VHDL and F
 
 I am always open to connecting with engineers, researchers, and thinkers who are working on hard problems. If you are building something that matters, something that is resilient by design, let's talk.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaigm&theme=tokyonight)
+
