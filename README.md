@@ -1,7 +1,5 @@
 My work is centered on a single principle: building robust, efficient systems at the intersection of hardware and software. I don't just use tools; I deconstruct them to understand their core. My approach is forged from a belief that true innovation comes from mastering the fundamentals—from the logic gate to the learning algorithm.
 
-**This isn't just about writing code. It's about creating order and resilience in a world that tends toward chaos**.
-
 ---
 
 ### My Core Focus
