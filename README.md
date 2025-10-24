@@ -2,7 +2,7 @@ My work is centered on a single principle: building robust, efficient systems at
 
 ---
 
-### My Core Focus
+### My core focus
 
 I operate in three main domains. They are not separate interests; they are layers of the same mission.
 
@@ -14,7 +14,7 @@ I operate in three main domains. They are not separate interests; they are layer
 
 ---
 
-### Current Status
+### Current status
 
 I am currently preparing for a Master's degree, with a deep dive into VHDL and FPGA architecture. My objective is to contribute to the fields of Edge AI and Neuromorphic Computing.
 
