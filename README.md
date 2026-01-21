@@ -1,23 +1,34 @@
-My work is centered on a single principle: building robust, efficient systems at the intersection of hardware and software. I don't just use tools; I deconstruct them to understand their core. My approach is forged from a belief that true innovation comes from mastering the fundamentals—from the logic gate to the learning algorithm.
+### Hi there, I'm Isaí 👋
+
+My work operates at the boundary between **hardware and intelligence**. I don't just use tools; I deconstruct them to understand their mechanics. My engineering philosophy is built on the belief that robust systems come from a deep understanding of the fundamentals—from the logic gate to the learning algorithm.
 
 ---
 
-### My core focus
+### 🔭 My Core Focus
 
 I operate in three main domains. They are not separate interests; they are layers of the same mission.
 
-*   🧠 **AI & Scientific Computing:** My curiosity doesn't stop at the surface. When a technology interests me, I need to see how it works from the inside. This has led me to implement algorithms and replicate papers (e.g., Transfer Learning with PyTorch, GWO). I learn by building and deconstructing, not just by using.
+*   🧠 **AI & Scientific Computing:**
+    My curiosity drives me to look under the hood. I learn by building. This has led me to implement algorithms from scratch and replicate research papers (e.g., Transfer Learning, GWO) to truly grasp the internal logic behind the libraries. Currently focused on **Spiking Neural Networks (SNNs)** and their implementation on hardware.
 
-*   ⚙️ **C++ & Systems Programming:** This is my foundation. I build from the ground up, whether it's a CPU emulator (Intel 8080) or performance-critical applications. I write code intended for environments where efficiency and reliability are non-negotiable.
+*   ⚙️ **C++ & Systems Programming:**
+    This is my foundation. Whether building a CPU emulator (like the Intel 8080) or optimizing code for resource-constrained environments, I prioritize memory efficiency and architectural clarity. I write code designed to be close to the metal.
 
-*   ⚡ **FPGAs & VHDL:** This is the bridge between the two worlds above, and my current area of intense focus. My prior experience with hardware in the Navy sparked an interest that's now becoming a central part of my mission: bridging intelligent computation directly to the silicon. This is the future I am building towards.
+*   ⚡ **Hardware & FPGAs:**
+    Bridging the gap between software and silicon. I explore Digital Design (VHDL) and Edge AI, implementing logic on platforms like the **Basys 3 (Artix-7)** to bring algorithms into the physical world.
 
 ---
 
-### Current status
+### 🛠️ Tech Stack
 
-I am currently preparing for a Master's degree, with a deep dive into VHDL and FPGA architecture. My objective is to contribute to the fields of Edge AI and Neuromorphic Computing.
+*   **Languages:** C++, C, Python, VHDL, SQL.
+*   **Hardware:** FPGAs (Xilinx Artix-7), Microcontrollers (ESP32, PIC).
+*   **AI/ML:** PyTorch, Scikit-learn, NumPy, snnTorch.
+*   **Tools:** Vivado, CMake, Git, Linux.
 
-I am always open to connecting with engineers, researchers, and thinkers who are working on hard problems. If you are building something that matters, something that is resilient by design, let's talk.
+---
 
-
+### ⚡ Current Status
+*   🎓 **M.Sc. Student in Artificial Intelligence** at Universidad Veracruzana.
+*   🔬 Researching **Neuromorphic Computing** and **SNNs** for Motor Imagery signals.
+*   📖 Reading about **Hardware Security** and **Digital Forensics**.
