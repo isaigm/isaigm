@@ -21,7 +21,7 @@ I operate in three main domains. They are not separate interests; they are layer
 
 ### 🛠️ Tech Stack
 
-*   **Languages:** C++, C, Python, VHDL, SQL.
+*   **Languages:** C++, C, Python, VHDL, Rust.
 *   **Hardware:** FPGAs (Xilinx Artix-7), Microcontrollers (ESP32, PIC).
 *   **AI/ML:** PyTorch, Scikit-learn, NumPy, snnTorch.
 *   **Tools:** Vivado, CMake, Git, Linux.
